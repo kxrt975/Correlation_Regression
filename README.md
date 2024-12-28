@@ -1,7 +1,7 @@
 # Date:26-10-2024
 # EXP 3: Correlation and regression for data analysis
-# Name:Nikhil  
-# reg_no:24900366
+# Name: R.Karthik padmanaban
+# reg_no: 212224110029
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -24,6 +24,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
+devoloped by: R.Karthik padmanaban
+reg no: 212224110029
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
